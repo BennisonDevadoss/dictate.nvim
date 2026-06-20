@@ -259,9 +259,9 @@ def audio_tap(buffer, when):
                     sys.stdout.flush()
                     transcription_queue.put(audio_chunk)
                 else:
-                    # Clear VAD indicator silently
-                    sys.stdout.write("\r\033[K")
-                    sys.stdout.flush()
+                    # sys.stdout.write("\r\033[K")
+                    # sys.stdout.flush()
+                    pass
 
 
 # ── Worker Thread ─────────────────────────────────────────────────────────
@@ -301,9 +301,10 @@ def recognition_worker():
 
         result = transcribe(audio_chunk)
 
-        # Clear the status indicator
-        sys.stdout.write("\r\033[K")
-        sys.stdout.flush()
+        # sys.stdout.write("\r\033[K")
+        # sys.stdout.write("\r\033[K")
+        # sys.stdout.flush()
+        pass
 
         if result:
             phrase = normalize_text(result)
