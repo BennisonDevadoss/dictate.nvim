@@ -1,0 +1,278 @@
+# File Operations
+save
+save file
+save and quit
+quit
+force quit
+new file
+
+# Navigation
+go to top
+go to bottom
+next word
+previous word
+end of line
+start of line
+first character
+scroll down
+scroll up
+center
+next paragraph
+previous paragraph
+matching bracket
+
+# Editing
+delete line
+delete word
+delete character
+change line
+change word
+undo
+redo
+copy line
+paste
+paste above
+indent
+unindent
+join lines
+duplicate line
+delete to end
+change to end
+
+# Modes
+insert
+insert mode
+append
+open below
+open above
+normal
+normal mode
+visual
+visual mode
+visual line
+visual block
+
+# Search
+search
+next match
+previous match
+clear search
+
+# Splits
+split
+vertical split
+close split
+move right
+move left
+move up
+move down
+
+# Tabs
+new tab
+next tab
+previous tab
+close tab
+
+# LSP (Language Server Protocol)
+go to definition
+go to reference
+hover
+rename
+code action
+show diagnostics
+next error
+previous error
+
+# LazyVim Core & Subcommands
+lazy home
+lazy install
+lazy update
+lazy sync
+lazy clean
+lazy check
+lazy log
+lazy show
+lazy restore
+lazy profile
+lazy debug
+lazy clear
+lazy build
+lazy health
+lazy help
+lazy extras
+
+# LSP Keymaps
+lsp info
+go to references
+show references
+go to implementation
+go to declaration
+go to type definition
+show documentation
+signature help
+rename symbol
+rename file
+
+# Bufferline.nvim (Buffer tabs)
+toggle pin
+delete non pinned buffers
+delete buffers right
+delete buffers left
+pick buffer
+move buffer previous
+move buffer next
+
+# Snacks.nvim (Toggles, Notifier, Profiler)
+toggle format
+toggle format write
+toggle spelling
+toggle wrap
+toggle relative number
+toggle diagnostics
+toggle line number
+toggle conceal
+toggle tabline
+toggle treesitter
+toggle background
+toggle dim
+toggle animate
+toggle indent
+toggle scroll
+toggle inlay hints
+toggle zen
+toggle zoom
+toggle git signs
+notification history
+dismiss notifications
+toggle profiler
+toggle profiler highlights
+
+# Flash.nvim
+flash search
+flash
+flash treesitter
+remote flash
+treesitter search
+treesitter selection
+incremental selection
+
+# Noice.nvim
+noice last
+noice history
+noice all
+dismiss all
+noice picker
+scroll forward
+scroll backward
+
+# Trouble.nvim
+trouble diagnostics
+diagnostics list
+trouble buffer diagnostics
+trouble symbols
+trouble lsp
+trouble location list
+trouble quickfix
+previous trouble item
+next trouble item
+
+# Todo-Comments.nvim
+next todo
+previous todo
+trouble todo
+trouble todo fixme
+todo search
+find todo
+todo search fixme
+
+# Which-Key.nvim
+show keymaps
+which key
+window hydra
+
+# Harpoon.nvim
+harpoon file
+harpoon add
+harpoon menu
+harpoon quick menu
+harpoon file one
+harpoon file two
+harpoon file three
+harpoon file four
+harpoon file five
+harpoon file six
+harpoon file seven
+harpoon file eight
+harpoon file nine
+
+# Search / File Finders (Fzf-lua or Telescope)
+find files
+find file
+find files current directory
+find git files
+command history
+find text
+live grep
+live grep current directory
+search history
+search buffer lines
+search open buffers
+search registers
+search autocommands
+search document diagnostics
+search workspace diagnostics
+search help
+search highlights
+search keymaps
+search options
+search resume
+
+# Grug-Far.nvim
+search and replace
+grug far
+
+# Git / Gitsigns
+next hunk
+previous hunk
+last hunk
+first hunk
+stage hunk
+reset hunk
+stage buffer
+undo stage hunk
+reset buffer
+preview hunk
+blame line
+blame buffer
+diff this
+diff this tilde
+
+# Multipliers / Numbers
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+twenty one
+twenty two
+twenty three
+twenty four
+twenty five
+thirty
+forty
+fifty

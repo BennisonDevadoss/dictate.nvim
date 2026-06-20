@@ -1,0 +1,6 @@
+pyobjc-core
+pyobjc-framework-AVFoundation
+pyobjc-framework-Cocoa
+pyobjc-framework-Quartz
+numpy
+faster-whisper

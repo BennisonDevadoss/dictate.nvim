@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS Files
+.DS_Store
+
+# Neovim / Editor swap files
+*.swp
+*.swo
+.netrwhist
